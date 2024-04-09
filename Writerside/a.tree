@@ -7,6 +7,14 @@
                  start-page="starter-topic.md">
 
     <toc-element topic="Overview.md"/>
+    <toc-element topic="Installation.md">
+    </toc-element>
+    <toc-element topic="Usage.md">
+        <toc-element topic="Backend.md"/>
+        <toc-element topic="Frontend.md"/>
+    </toc-element>
+    <toc-element topic="Contributing.md"/>
     <toc-element topic="Members.md"/>
+    <toc-element topic="License.md"/>
     <toc-element topic="starter-topic.md"/>
 </instance-profile>

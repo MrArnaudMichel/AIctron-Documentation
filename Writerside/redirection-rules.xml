@@ -10,4 +10,8 @@
         <description>Created after removal of "About Test" from AIctron</description>
         <accepts>test.html</accepts>
     </rule>
+    <rule id="6fb64bb5">
+        <description>Created after removal of "How to use it" from AIctron</description>
+        <accepts>How-to-use-it.html</accepts>
+    </rule>
 </rules>
