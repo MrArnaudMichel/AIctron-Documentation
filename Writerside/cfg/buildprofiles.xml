@@ -2,7 +2,21 @@
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-    <variables></variables>
+    <shortcuts>
+        <src>keymap.xml</src>
+        <layout name="Windows" display-name="Windows"/>
+        <layout name="Linux" display-name="Linux"/>
+        <layout name="macOS" display-name="macOS"/>
+    </shortcuts>
+    <variables>
+        <primary-color>halloween</primary-color>
+        <product-web-url>https://github.com/Group-3-Charlie/AIctron</product-web-url>
+        <header-logo>https://raw.githubusercontent.com/Group-3-Charlie/AIctron/aaa97d0871a638cd5e3fae24166c6b89791bc834/aictron-app/src/assets/images/logo_no_margin.svg</header-logo>
+        <custom-favicons>https://raw.githubusercontent.com/Group-3-Charlie/AIctron/aaa97d0871a638cd5e3fae24166c6b89791bc834/aictron-app/src/assets/images/logo_no_margin.svg</custom-favicons>
+        <download-title>Download</download-title>
+        <download-page>https://github.com/Group-3-Charlie/AIctron</download-page>
+        <showDownloadButton>true</showDownloadButton>
+    </variables>
     <build-profile instance="a">
         <variables>
             <noindex-content>false</noindex-content>
@@ -13,5 +27,11 @@
         <variables></variables>
     </build-profile>
     <sitemap priority="0.35" change-frequency="monthly"/>
+    <footer>
+        <copyright>AIctron 2024</copyright>
+        <social type="blog" href="https://github.com/Group-3-Charlie/AIctron"/>
+        <link href="https://github.com/Group-3-Charlie/AIctron/blob/main/LICENSE">License</link>
+        <link href="https://github.com/Group-3-Charlie/AIctron/blob/main/README.md">Readme</link>
+    </footer>
 
 </buildprofiles>
