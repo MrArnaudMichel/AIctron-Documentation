@@ -14,4 +14,53 @@
         <description>Created after removal of "How to use it" from AIctron</description>
         <accepts>How-to-use-it.html</accepts>
     </rule>
+    <rule id="1715460">
+        <description>Created after removal of "Schemas" from AIctron</description>
+        <accepts>Schemas.html</accepts>
+    </rule>
+    <rule id="4e2186a2">
+        <description>Created after removal of "Upload route." from AIctron</description>
+        <accepts>Upload_route_.html</accepts>
+    </rule>
+    <rule id="ad67875">
+        <description>Created after removal of "Select target column." from AIctron</description>
+        <accepts>Select_target_column_.html</accepts>
+    </rule>
+    <rule id="fa20f75">
+        <description>Created after removal of "Predict route." from AIctron</description>
+        <accepts>Predict_route_.html</accepts>
+    </rule>
+    <rule id="75f0e697">
+        <description>Created after removal of "Get routes route." from AIctron</description>
+        <accepts>Get_routes_route_.html</accepts>
+    </rule>
+    <rule id="5086c2fd">
+        <description>Created after removal of "Return predictions." from AIctron</description>
+        <accepts>Return_predictions_.html</accepts>
+    </rule>
+    <rule id="2102d95c">
+        <description>Created after removal of "Get data route." from AIctron</description>
+        <accepts>Get_data_route_.html</accepts>
+    </rule>
+    <rule id="32179ae7">
+        <description>Created after removal of "Return column names without the target column." from AIctron
+        </description>
+        <accepts>Return_column_names_without_the_target_column_.html</accepts>
+    </rule>
+    <rule id="2ae70322">
+        <description>Created after removal of "Return column names." from AIctron</description>
+        <accepts>Return_column_names_.html</accepts>
+    </rule>
+    <rule id="1e6b082b">
+        <description>Created after removal of "About route." from AIctron</description>
+        <accepts>About_route_.html</accepts>
+    </rule>
+    <rule id="177854a9">
+        <description>Created after removal of "Index route." from AIctron</description>
+        <accepts>Index_route_.html</accepts>
+    </rule>
+    <rule id="402992a6">
+        <description>Created after removal of "API Reference" from AIctron</description>
+        <accepts>API_Reference.html</accepts>
+    </rule>
 </rules>

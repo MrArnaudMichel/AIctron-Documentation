@@ -7,8 +7,8 @@ The backend of AIctron is the part of the project that handles the processing of
 1. Run the project locally
 
 ```bash
-cd AIctron-Backend
-python code/__init__.py
+cd AIctron-Backend/code
+python __init__.py
 ```
 
 2. Access the project in your browser at [http://localhost:3456](http://localhost:3456)

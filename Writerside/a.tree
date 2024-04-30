@@ -4,7 +4,7 @@
 
 <instance-profile id="a"
                  name="AIctron"
-                 start-page="starter-topic.md">
+                 start-page="Overview.md">
 
     <toc-element topic="Overview.md"/>
     <toc-element topic="Installation.md">
@@ -12,6 +12,20 @@
     <toc-element topic="Usage.md">
         <toc-element topic="Backend.md"/>
         <toc-element topic="Frontend.md"/>
+    </toc-element>
+    <toc-element topic="Documentation.md">
+        <toc-element topic="API_Reference.md">
+            <toc-element topic="Upload_route_.md"/>
+            <toc-element topic="Select_target_column_.md"/>
+            <toc-element topic="Predict_route_.md"/>
+            <toc-element topic="Get_routes_route_.md"/>
+            <toc-element topic="Return_predictions_.md"/>
+            <toc-element topic="Get_data_route_.md"/>
+            <toc-element topic="Return_column_names_without_the_target_column_.md"/>
+            <toc-element topic="Return_column_names_.md"/>
+            <toc-element topic="About_route_.md"/>
+            <toc-element topic="Index_route_.md"/>
+        </toc-element>
     </toc-element>
     <toc-element topic="Contributing.md"/>
     <toc-element topic="Members.md"/>
